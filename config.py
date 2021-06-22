@@ -1,7 +1,7 @@
 import os 
 
 class Config:
-    SECRET_KEY = os.environ.get("SECRET_KEY")
+    SECRET_KEY = b'&/\xf8>\x13[\xcd8\xf1S4\x8b\xf0\xa0F\xb3c\x96\x9c\x05\xcb\xc6/#\x0c\xb1)\xe1\xde\x89\x9d\xce'
     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:moringa@localhost/flaskblog'
     UPLOADED_PHOTOS_DEST = "app/static/photos"
 
