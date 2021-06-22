@@ -6,8 +6,17 @@ the application displays random quotes to inspire users.
 [View Site](https://flask-blog-personal.herokuapp.com/)
 
 ## Screenshot
+Home
+<img src="https://github.com/TechVictorKE/personal-blog/blob/master/app/static/img/home-screenshot.png">
 
-<img src="">
+Log In
+<img src="https://github.com/TechVictorKE/personal-blog/blob/master/app/static/img/login-screenshot.png">
+
+Sign Up
+<img src="https://github.com/TechVictorKE/personal-blog/blob/master/app/static/img/signup-screenshot.png">
+
+Sample Post
+<img src="https://github.com/TechVictorKE/personal-blog/blob/master/app/static/img/post-screenshot.png">
 
 ## User Stories
 
